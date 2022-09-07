@@ -1,0 +1,17 @@
+ form {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-left: 3px solid #d624bb;
+    color: rgb(152, 89, 154);
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 1.5em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+    text-align: center;
+}
